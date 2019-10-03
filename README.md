@@ -1,5 +1,3 @@
-### Olá Mundo
+### Sobre o repositório:
 
-## Tudo bem?
-
-### Bye :D
+Este repositório tem por objetivo adicionar dados para o evento Hacktoberfest de modo a alcançar os objetivos do evento.
