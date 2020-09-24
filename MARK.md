@@ -20,3 +20,13 @@ e) Usabilidade
 
 É um critério de qualidade de uso do sistema pelo usuário [4] (página 28). O conceito de usabilidade relaciona-se com: a facilidade de aprender e de usar o sistema; a satisfação do usuário a partir desse uso; a maneira pela qual o uso de um sistema interativo é afetado pelas características do usuário etc. [4] (página 28).
 
+2) Quais são os benefícios da IHC?
+
+A interação humano-computador contribui para aumentar a produtividade dos usuários; para reduzir o número e a gravidade dos erros; para reduzir o custo com treinamentos e com suporte técnico; para aumentar as vendas e a fidelidade do cliente etc. [3]
+
+3) Quais são os aspectos desejáveis e indesejáveis da experiência do usuário?
+
+"Existem alguns aspectos importantes para experiência do usuário a serem consi- derados durante o (re)projeto de um sistema interativo, como, por exemplo, atenção, ritmo, divertimento, interatividade, controle consciente e inconsciente, envolvimento e estilo de narrativa (Sharp et al., 2007). Um bom envolvimento emocional dos usuários durante a interação agrega valor ao sistema interativo" [4] página 32.
+Alguns aspectos indesejáveis para a experiência do usuário são: cansaço, frustração e ofensa [3].
+
+
